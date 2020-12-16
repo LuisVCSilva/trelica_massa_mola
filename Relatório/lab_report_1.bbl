@@ -1,0 +1,78 @@
+\begin{thebibliography}{}
+
+\bibitem[Baghmisheh et~al., 2012]{baghmisheh2012hybrid}
+Baghmisheh, M.~V., Peimani, M., Sadeghi, M.~H., Ettefagh, M.~M., and Tabrizi,
+  A.~F. (2012).
+\newblock A hybrid particle swarm--nelder--mead optimization method for crack
+  detection in cantilever beams.
+\newblock {\em Applied Soft Computing}, 12(8):2217--2226.
+
+\bibitem[Bathe, 2006]{bathe2006finite}
+Bathe, K.-J. (2006).
+\newblock {\em Finite element procedures}.
+\newblock Klaus-Jurgen Bathe.
+
+\bibitem[Christensen et~al., 2015]{christensen2015learning}
+Christensen, E.~A., Blanco-Silva, F.~J., et~al. (2015).
+\newblock {\em Learning SciPy for Numerical and Scientific Computing}.
+\newblock Packt Publishing Ltd.
+
+\bibitem[Felippa, 1977]{felippa1977numerical}
+Felippa, C.~A. (1977).
+\newblock Numerical experiments in finite element grid optimization by direct
+  energy search.
+\newblock {\em Applied Mathematical Modelling}, 1(5):239--244.
+
+\bibitem[Hill, 1959]{hill1959some}
+Hill, R. (1959).
+\newblock Some basic principles in the mechanics of solids without a natural
+  time.
+\newblock {\em Journal of the Mechanics and Physics of Solids}, 7(3):209--225.
+
+\bibitem[Hutton and Wu, 2004]{hutton2004fundamentals}
+Hutton, D.~V. and Wu, J. (2004).
+\newblock {\em Fundamentals of finite element analysis}, volume~1.
+\newblock McGraw-hill New York.
+
+\bibitem[Liu et~al., 2013]{liu2013fast}
+Liu, T., Bargteil, A.~W., O'Brien, J.~F., and Kavan, L. (2013).
+\newblock Fast simulation of mass-spring systems.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 32(6):214.
+
+\bibitem[Reddy, 2007]{reddy2007introduction}
+Reddy, J.~N. (2007).
+\newblock {\em An introduction to continuum mechanics}.
+\newblock Cambridge university press.
+
+\bibitem[Schlick and Overton, 1987]{schlick1987powerful}
+Schlick, T. and Overton, M. (1987).
+\newblock A powerful truncated newton method for potential energy minimization.
+\newblock {\em Journal of Computational Chemistry}, 8(7):1025--1039.
+
+\bibitem[Storn and Price, 1997]{storn1997differential}
+Storn, R. and Price, K. (1997).
+\newblock Differential evolution--a simple and efficient heuristic for global
+  optimization over continuous spaces.
+\newblock {\em Journal of global optimization}, 11(4):341--359.
+
+\bibitem[Wang et~al., 2015]{wang2015direct}
+Wang, Z., Ruimi, A., and Srinivasa, A. (2015).
+\newblock A direct minimization technique for finding minimum energy
+  configurations for beam buckling and post-buckling problems with constraints.
+\newblock {\em International Journal of Solids and Structures}, 72:165--173.
+
+\bibitem[Wendorff et~al., 2016]{wendorff2016comparing}
+Wendorff, A., Botero, E., and Alonso, J.~J. (2016).
+\newblock Comparing different off-the-shelf optimizers' performance in
+  conceptual aircraft design.
+\newblock In {\em 17th AIAA/ISSMO Multidisciplinary Analysis and Optimization
+  Conference}, page 3362.
+
+\bibitem[Zhu et~al., 1997]{zhu1997algorithm}
+Zhu, C., Byrd, R.~H., Lu, P., and Nocedal, J. (1997).
+\newblock Algorithm 778: L-bfgs-b: Fortran subroutines for large-scale
+  bound-constrained optimization.
+\newblock {\em ACM Transactions on Mathematical Software (TOMS)},
+  23(4):550--560.
+
+\end{thebibliography}

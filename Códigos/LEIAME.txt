@@ -1,0 +1,2 @@
+Diferentemente dos outros algoritmos, não foi possível gerar as representações gráficas de todas as treliças geradas
+pela Evolução Diferencial no decorrer do experimento, devido ao gasto excessivo de tempo com operações de escrita em arquivo. As imagens que seguem são apenas uma porção do que foi gerado no experimento com 40 candidatos.
